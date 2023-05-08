@@ -1,17 +1,15 @@
-# Hi, I'm Vova! 👋
+### Hi there 👋, I'm Vova
+#### I am junior golang developer
+![I am junior golang developer](https://miro.medium.com/v2/resize:fit:1087/1*sFmL0gsGVevX9YNusRfgjQ.png)
 
-## 🚀 About Me 
-I junior golang developer, I'm 14\
-I study at the Vinnytsia Technical Lyceum in the first year
+I study at the Vinnytsia Technical Lyceum. Somewhere in the 5th grade, I became interested in programming, namely the language python
 
-## 🔗 Links 
+Skills: Python / Golang / TypeScript / JavaScript / HTML / CSS (SCSS)
 
-[Telegram](https://t.me/GlobalA_A)
+- I’m currently learning at the Vinnytsia Technical Lyceum. 
 
-## 🛠 Skills
-- Golang
-- TypeScript
-- JavaScript
-- HTML
-- CSS (SCSS)
-- `Working with TOML, JSON`
+![Profile views](https://gpvc.arturio.dev/globalaa)  
+
+[<img src='https://cdn-icons-png.flaticon.com/512/2504/2504911.png' alt='github' height='40'>](https://github.com/globalaa)  [<img src='https://cdn-icons-png.flaticon.com/512/2504/2504941.png' alt='telegram' height='40'>](https://t.me/GlobalA_A)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=globalaa&show_icons=true)  
