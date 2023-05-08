@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Vova
 #### I am junior golang developer
-![I am junior golang developer](https://miro.medium.com/v2/resize:fit:1087/1*sFmL0gsGVevX9YNusRfgjQ.png)
 
 I study at the Vinnytsia Technical Lyceum. Somewhere in the 5th grade, I became interested in programming, namely the language python
 
