@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Vova! 👋
 
-<!--
-**GlobalAA/globalaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me 
+I junior golang developer, I'm 14\
+I study at the Vinnytsia Technical Lyceum in the first year
 
-Here are some ideas to get you started:
+## 🔗 Links 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram](https://t.me/GlobalA_A)
+
+## 🛠 Skills
+- Golang
+- TypeScript
+- JavaScript
+- HTML
+- CSS (SCSS)
+- `Working with TOML, JSON`
