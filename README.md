@@ -9,6 +9,5 @@ Skills: Python / Golang / TypeScript / JavaScript / HTML / CSS (SCSS)
 
 ![Profile views](https://gpvc.arturio.dev/globalaa)  
 
-[<img src='https://cdn-icons-png.flaticon.com/512/2504/2504911.png' alt='github' height='40'>](https://github.com/globalaa)  [<img src='https://cdn-icons-png.flaticon.com/512/2504/2504941.png' alt='telegram' height='40'>](https://t.me/GlobalA_A)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=globalaa&show_icons=true)  
+[<img src='https://cdn-icons-png.flaticon.com/512/2504/2504911.png' alt='github' height='40'>](https://github.com/globalaa)  [<img src='https://cdn-icons-png.flaticon.com/512/2504/2504941.png' alt='telegram' height='40'>](https://t.me/GlobalA_A) 
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504918.png" alt="instagram" height='40'>](https://www.instagram.com/globala_a/)
