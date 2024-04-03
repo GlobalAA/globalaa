@@ -3,8 +3,6 @@
 
 I study at the Vinnytsia Technical Lyceum. Somewhere in the 5th grade, I became interested in programming, namely the language python
 
-Skills: Python / TypeScript / JavaScript / HTML / CSS (SCSS)
+Skills: Python / TypeScript / JavaScript / HTML / CSS (SCSS) / Trainee C++
 
 - I’m currently learning at the Vinnytsia Technical Lyceum. 
-
-[<img src='https://cdn-icons-png.flaticon.com/512/2504/2504911.png' alt='github' height='40'>](https://github.com/globalaa)  [<img src='https://cdn-icons-png.flaticon.com/512/2504/2504941.png' alt='telegram' height='40'>](https://t.me/GlobalA_A) 
