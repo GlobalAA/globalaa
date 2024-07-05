@@ -7,4 +7,4 @@ Skills: Python / TypeScript / JavaScript / HTML / CSS (SCSS) / Trainee C++
 
 <h2>Languages stats </h2> 
 <br/>
-<p align="center"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlobalAA&layout=compact&theme=tokyonight&hide=css,scss,makefile,html" alt="GlobalAA" /> </p>
+<p align="center"> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlobalAA&layout=compact&theme=tokyonight&hide=css,scss,makefile,html,cmake" alt="GlobalAA" /> </p>
